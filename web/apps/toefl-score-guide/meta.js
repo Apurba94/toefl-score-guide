@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-score-guide", "title": "TOEFL Score Guide", "exam": "TOEFL", "area": "TOEFL Planning and Both Tests", "desc": "Understand the 1 to 6 band scale and its CEFR levels, and record the scores your target universities ask for.", "content": [], "n": 87};
